@@ -1,0 +1,11 @@
+.menuItem {
+    width: 100%;
+    padding: 4px;
+    background: black;
+    color: white;
+}
+
+.menuItem:hover {
+    background-color: deeppink;
+    color: yellow;
+}
